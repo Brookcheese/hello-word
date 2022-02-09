@@ -1,2 +1,2 @@
-# hello-word
-Tutorial de Github repositorio
+# Tutorial Github
+Hola, me llamo Mayné González
